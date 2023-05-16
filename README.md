@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TommyEvertsen
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Front-end and back-end development
+- 🌱 I’m currently learning React.js || Laravel
 - 📫 How to reach me tommyevertsen52@gmail.com
 
 <!---
