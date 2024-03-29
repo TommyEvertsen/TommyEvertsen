@@ -2,7 +2,7 @@
 - 👀 I’m working as a fullstack developer.
 - 🌜 Videogame developer at night.
 - 🌱 My technologies: PHP, Javascript, Laravel, Vue.js, C#, React.js and Unity
-- ✨ Certified Microsoft Azure Fundamentals, now training for Azure Associate Developer certification.
+- ✨ Certified: Azure Associate Developer,  Microsoft Azure Fundamentals.
 - 🎮 Visit my videogame: https://play.unity.com/mg/other/webgl-builds-393032
 - ⭐ Visit my Portofolio: 
 - 📫 How to reach me tommyevertsen52@gmail.com
