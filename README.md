@@ -4,7 +4,7 @@
 - 🌱 My technologies: PHP, Javascript, Laravel, Vue.js, C#, React.js and Unity
 - ✨ Certified: Azure Associate Developer,  Microsoft Azure Fundamentals.
 - 🎮 Visit my videogame: https://play.unity.com/mg/other/webgl-builds-393032
-- ⭐ Visit my Portofolio: 
+- ⭐ Visit my Portofolio: https://tommyevertsen.github.io/Portofolio/
 - 📫 How to reach me tommyevertsen52@gmail.com
 
 <!---
