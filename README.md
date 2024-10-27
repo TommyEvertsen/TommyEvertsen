@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TommyEvertsen
 - 👀 I’m working as a fullstack developer.
 - 🌜 Videogame developer at night.
-- 🌱 My technologies: PHP, Javascript, Laravel, Vue.js, C# and Unity
+- 🌱 My technologies: PHP, Javascript, Laravel, Vue.js, C#, Oracle Apex and Unity
 - ✨ Certified: Azure Associate Developer,  Microsoft Azure Fundamentals.
 - 🎮 Visit my videogame: [https://play.unity.com/mg/other/webgl-builds-393032](https://play.unity.com/en/games/fe0fbeae-9381-4518-83c0-377a728f5a2a/build)
 - ⭐ Visit my Portofolio: https://tommyevertsen.github.io/Portofolio/
